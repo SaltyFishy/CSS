@@ -29,3 +29,13 @@ CSS的优势:
 	<li>使用独立于HTML的文件</li>
 	<li>利用SEO，容易被搜索引擎收录</li>
 </ol>
+<h3>CSS的四种导入方式</h3>
+<a href="http://localhost:63342/2021.7.12%EF%BC%88%E7%AC%AC%E4%BA%94%E5%91%A8%EF%BC%89CSS/lesson01/4%E7%A7%8D%E5%AF%BC%E5%85%A5%E6%96%B9%E5%BC%8F/index01.html?_ijt=edgq1huu366ore0p6p15m1iado" title="四种导入方式">四种导入方式</a>
+<h2>CSS选择器</h2>
+选择某一个或某一类元素
+<h3>标签选择器</h3>
+<a href="http://localhost:63342/2021.7.12%EF%BC%88%E7%AC%AC%E4%BA%94%E5%91%A8%EF%BC%89CSS/lesson01/%E9%80%89%E6%8B%A9%E5%99%A8/%E6%A0%87%E7%AD%BE%E9%80%89%E6%8B%A9%E5%99%A8.html?_ijt=dnudbltngtm6kjgsj53js5tj6k" title="标签选择器">标签选择器</a>
+<h3>类选择器</h3>
+<a href="http://localhost:63342/2021.7.12%EF%BC%88%E7%AC%AC%E4%BA%94%E5%91%A8%EF%BC%89CSS/lesson01/%E9%80%89%E6%8B%A9%E5%99%A8/%E7%B1%BB%E9%80%89%E6%8B%A9%E5%99%A8.html?_ijt=dnudbltngtm6kjgsj53js5tj6k" title="类选择器">类选择器</a>
+<h3>ID选择器</h3>
+<a href="http://localhost:63342/2021.7.12%EF%BC%88%E7%AC%AC%E4%BA%94%E5%91%A8%EF%BC%89CSS/lesson01/%E9%80%89%E6%8B%A9%E5%99%A8/ID%E9%80%89%E6%8B%A9%E5%99%A8.html?_ijt=255gcgrkos32djiao3tver892s" title="ID选择器">ID选择器</a>
